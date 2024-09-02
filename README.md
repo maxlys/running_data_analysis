@@ -1,7 +1,7 @@
 # running_data_analysis
-Visualisation of the running metrics from Gardian Connect
+Visualisation of the running metrics from Gardian Connect, see the full article here https://medium.com/p/99609f83314e
 
-The project contains Python code to analyze and vizualize running data from Gardian Connect. 
+The project contains Python code to analyze and visualize running data from Gardian Connect. 
 
 
 
